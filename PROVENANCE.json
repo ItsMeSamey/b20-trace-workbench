@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "source_url": "https://api.coinbase.com/v1/tokenized-stocks",
+    "captured_utc": "2026-11-07T08:50:06Z",
+    "source_sha256": "919d5c5d91f632ca09c8e42a27f20a17f21b95c8dc96b21ce38751256a57bda8",
+    "source_bytes": 236870,
+    "source_record_count": 100,
+    "projection_sha256": "9f9a6cf638acb02710b013c3ec4cdb6492ac34e874631cca6bf4f5713690ee57",
+    "removed_fields": [
+      "description",
+      "icon_url"
+    ],
+    "remaining_values_unchanged": true,
+    "cursor_retained": true,
+    "complete_inventory": false,
+    "live_freshness_verified": false,
+    "description": "Factual field projection of one captured public page; descriptions and icon links omitted. Not exact raw state or history."
+  },
+  "authored_cases": {
+    "fixtures_sha256": "77f75984663bd8ec76056f9a6ee0223517c3aa588e116012f85a5e6ba10d4320",
+    "expected_sha256": "559d76735a79501dde97db23038e3b02a7487f633071053886e7190b23551871",
+    "independently_authored_before_implementation_review": true,
+    "case_count": 40,
+    "state_cases": 30,
+    "abi_cases": 10,
+    "onchain_observations": false
+  },
+  "semantic_sources": [
+    "https://docs.base.org/specifications/b20/reference/interfaces/ib20-asset",
+    "https://docs.base.org/specifications/b20/reference/interfaces/ib20-asset/to-ui-amount",
+    "https://docs.base.org/specifications/b20/reference/interfaces/ib20-asset/update-ui-multiplier",
+    "https://docs.base.org/specifications/b20/reference/interfaces/ib20-asset/cancel-ui-multiplier-update",
+    "https://docs.base.org/specifications/b20/reference/interfaces/ib20-asset/effective-at"
+  ],
+  "source_captures_date": "2026-11-07",
+  "limitations": [
+    "Conflicting pending-update override semantics excluded.",
+    "Legacy emitter ambiguity excluded.",
+    "No demonstrated overflow contract above uint256 product.",
+    "Public RPC history acquisition returned403; no replacement request made."
+  ]
+}

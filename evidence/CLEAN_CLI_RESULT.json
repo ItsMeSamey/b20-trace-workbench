@@ -1,0 +1,101 @@
+{
+  "finished_utc": "2026-11-07T09:19:37.486375+00:00",
+  "executor": "implementation owner, not independent reviewer",
+  "python_version": "3.14.8 (main, Oct  2 2026, 10:23:31) [GCC 16.2.1 20260810]",
+  "qualification_archive_sha256": "201f3775a0936be51284c3f228ba5921681ddc357a42040c88ca3488bd485556",
+  "source_files_sha256": {
+    "LICENSE": "7313bbc1ebfeafbff488963b4344de55593f0b7a370f8690a1d67cd6c87d2c0c",
+    "NOTICE.md": "c1d18cb785e4ca581ef4e1f75bfc5dfa813a4bac4dde7a781809b2281d5a82d3",
+    "PROTOCOL.md": "7643b0f924761623770236cf1ad958f300b49a19818d93f3d2f92c6210f39667",
+    "PROVENANCE.json": "9bb505ae44f873c318ba860ef2ea3150d7053a8c030a272c7ad8df135b693de4",
+    "README.md": "2e56e531fa2167e9f32e39d12cb15ea4e03f9cc25b05e7de6e149505cbe0e0c7",
+    "b20workbench.py": "4ea247790a9d7a9b99c8bd0ae057d6a9e8ad6dd38d69e9f0a40f234c0adf93a3",
+    "evidence/REVIEW_SUMMARY.json": "b5dfce62a44b59e815d4102f1780acf26c35e0a638c1b8481a975d7cd5a1ee7a",
+    "evidence/unit-tests.log": "e6541b7195c19b1842379642b2aadb6e25093a0dff2e85cfe94e4bb314b0735d",
+    "fixtures/authored/duplicate-cases.json": "ed10269196bf5de9e5e1a675312f9e1c1720e3a8d92938faaed0f9f5499d7800",
+    "fixtures/authored/empty-expected.json": "bde1a716f7b6b497f538e8dd01e9784baa94bf7e338ca9767bb90985cc151dfe",
+    "fixtures/authored/empty-fixtures.json": "f5262ef4af715205b352089d75e3a006d6fcf5c6846adede9932ff5a2a8edf1d",
+    "fixtures/authored/expected.json": "559d76735a79501dde97db23038e3b02a7487f633071053886e7190b23551871",
+    "fixtures/authored/fixtures.json": "77f75984663bd8ec76056f9a6ee0223517c3aa588e116012f85a5e6ba10d4320",
+    "fixtures/authored/missing-cases.json": "afe4c5bad44f78599f2976ae4fc86be9a68537e016e7c21674d38cb9a1574497",
+    "fixtures/metadata/captured-page-projection.json": "9f9a6cf638acb02710b013c3ec4cdb6492ac34e874631cca6bf4f5713690ee57",
+    "test_workbench.py": "169edac5dfccb454a546a85e5dff2f91e26bc10fe4b2edb8934434d1498839bb"
+  },
+  "command_results": [
+    {
+      "name": "evaluate",
+      "command": [
+        "python3",
+        "b20workbench.py",
+        "evaluate",
+        "fixtures/authored/fixtures.json",
+        "--output",
+        "my-results.json"
+      ],
+      "exit_code": 0,
+      "stdout_sha256": "f86ec0df7a5547c66d717a0e231b17c8a467a48d4c51418086faff84574bf671",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "summary": {
+        "written": "my-results.json",
+        "origin": "authored",
+        "cases": 40
+      }
+    },
+    {
+      "name": "compare",
+      "command": [
+        "python3",
+        "b20workbench.py",
+        "compare",
+        "fixtures/authored/expected.json",
+        "my-results.json"
+      ],
+      "exit_code": 0,
+      "stdout_sha256": "12753e8bedf9e52cc3f17c21981261d8e941f36caf86a54191bf19ea58c7b44e",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "summary": {
+        "origin": "authored",
+        "matches": true,
+        "expected_records": 40,
+        "actual_records": 40,
+        "failures": []
+      }
+    },
+    {
+      "name": "metadata",
+      "command": [
+        "python3",
+        "b20workbench.py",
+        "inspect-metadata",
+        "fixtures/metadata/captured-page-projection.json"
+      ],
+      "exit_code": 0,
+      "stdout_sha256": "60851c5367dda89a21fadf4f912f4c48eed2185651b48454889ed5d6a851d116",
+      "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "summary": {
+        "kind": "captured_metadata_page",
+        "sha256": "9f9a6cf638acb02710b013c3ec4cdb6492ac34e874631cca6bf4f5713690ee57",
+        "bytes": 28235,
+        "record_count": 100,
+        "has_next_page": true,
+        "inventory_complete": false,
+        "field_presence": {
+          "adgm_isin": 100,
+          "contract_address": 100,
+          "decimals": 100,
+          "first_mint_date": 25,
+          "isin": 100,
+          "multiplier": 100,
+          "name": 100,
+          "nav_price": 6,
+          "nav_price_updated_at": 6,
+          "symbol": 100,
+          "total_supply": 25
+        }
+      }
+    }
+  ],
+  "all_tested_files_unchanged": true,
+  "status": "PASS",
+  "packaging_note": "This receipt was added after testing. Code, tests and fixtures are the exact files listed above; no code or fixture was changed after the clean commands."
+}

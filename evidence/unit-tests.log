@@ -1,0 +1,34 @@
+test_canonical_words (test_workbench.AbiTests.test_canonical_words) ... ok
+test_invalid_payloads (test_workbench.AbiTests.test_invalid_payloads) ... ok
+test_legacy_is_not_state_reconstruction (test_workbench.AbiTests.test_legacy_is_not_state_reconstruction) ... ok
+test_actual_evaluate_compare_and_exclusive_output (test_workbench.CliTests.test_actual_evaluate_compare_and_exclusive_output) ... ok
+test_cli_mismatch_and_document_errors (test_workbench.CliTests.test_cli_mismatch_and_document_errors) ... ok
+test_malformed_result_cli_exit (test_workbench.CliTests.test_malformed_result_cli_exit) ... ok
+test_metadata_optional_fields_and_no_inventory_claim (test_workbench.CliTests.test_metadata_optional_fields_and_no_inventory_claim) ... ok
+test_all_result_variants_require_full_structure (test_workbench.ComparisonTests.test_all_result_variants_require_full_structure) ... ok
+test_authored_fault_patterns_are_detected (test_workbench.ComparisonTests.test_authored_fault_patterns_are_detected) ... ok
+test_four_explicit_compatibility_failures (test_workbench.ComparisonTests.test_four_explicit_compatibility_failures) ... ok
+test_malformed_results_never_compare_as_success (test_workbench.ComparisonTests.test_malformed_results_never_compare_as_success) ... ok
+test_missing_extra_duplicate_records (test_workbench.ComparisonTests.test_missing_extra_duplicate_records) ... ok
+test_reordered_cases_match_by_id (test_workbench.ComparisonTests.test_reordered_cases_match_by_id) ... ok
+test_result_domains_and_nested_keys (test_workbench.ComparisonTests.test_result_domains_and_nested_keys) ... ok
+test_types_are_exact (test_workbench.ComparisonTests.test_types_are_exact) ... ok
+test_cancel_removes_pending (test_workbench.StateTests.test_cancel_removes_pending) ... ok
+test_empty_arrays (test_workbench.StateTests.test_empty_arrays) ... ok
+test_exact_floor_and_zero (test_workbench.StateTests.test_exact_floor_and_zero) ... ok
+test_invalid_integer_types_and_domains (test_workbench.StateTests.test_invalid_integer_types_and_domains) ... ok
+test_large_integer_precision (test_workbench.StateTests.test_large_integer_precision) ... ok
+test_mature_before_schedule (test_workbench.StateTests.test_mature_before_schedule) ... ok
+test_mature_then_cancel_is_unsupported (test_workbench.StateTests.test_mature_then_cancel_is_unsupported) ... ok
+test_maturity_without_event (test_workbench.StateTests.test_maturity_without_event) ... ok
+test_no_input_mutation (test_workbench.StateTests.test_no_input_mutation) ... ok
+test_overflow_no_partial_step (test_workbench.StateTests.test_overflow_no_partial_step) ... ok
+test_pending_conflicts_are_explicit (test_workbench.StateTests.test_pending_conflicts_are_explicit) ... ok
+test_schedule_bound_and_order (test_workbench.StateTests.test_schedule_bound_and_order) ... ok
+test_unknown_op_and_keys (test_workbench.StateTests.test_unknown_op_and_keys) ... ok
+test_whole_case_validation_precedes_unsupported (test_workbench.StateTests.test_whole_case_validation_precedes_unsupported) ... ok
+
+----------------------------------------------------------------------
+Ran 29 tests in 0.606s
+
+OK

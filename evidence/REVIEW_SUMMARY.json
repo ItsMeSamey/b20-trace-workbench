@@ -1,0 +1,42 @@
+{
+  "kind": "review_summary_prepared_from_retained_receipts",
+  "code_sha256": "4ea247790a9d7a9b99c8bd0ae057d6a9e8ad6dd38d69e9f0a40f234c0adf93a3",
+  "tests_sha256": "169edac5dfccb454a546a85e5dff2f91e26bc10fe4b2edb8934434d1498839bb",
+  "initial_independent_cli": {
+    "checks": 19,
+    "passed": 17,
+    "failed": 2,
+    "finding": "ID-only malformed result objects could compare equal."
+  },
+  "corrected_independent_cli": {
+    "checks": 19,
+    "passed": 19,
+    "failed": 0,
+    "review_sha256": "9834604fd0f6df01a69f30396bdb1beb244a44c5f0c53ef570df14e574ac5b1f",
+    "result_sha256": "5cee0957accb1132508dc03c6dbb4392802d97036468a94535ce3686f4acf829"
+  },
+  "independent_authored_case_execution": {
+    "cases": 40,
+    "exact": 40,
+    "reused_after_comparator_fix": true,
+    "basis": "Evaluator AST unchanged; focused review checked corrected comparator."
+  },
+  "unit_tests": {
+    "count": 29,
+    "passed": 29,
+    "exit_code": 0,
+    "log_sha256": "e6541b7195c19b1842379642b2aadb6e25093a0dff2e85cfe94e4bb314b0735d",
+    "reused_for_release": true,
+    "basis": "Exact code and test bytes unchanged."
+  },
+  "runtime_for_release_cli": "3.14.8 (main, Oct  2 2026, 10:23:31) [GCC 16.2.1 20260810]",
+  "source_syntax_minimum": "Python3.10",
+  "claims_not_made": [
+    "live chain history",
+    "production SDK defect",
+    "speedup",
+    "complete inventory",
+    "contest submission",
+    "award or payment"
+  ]
+}

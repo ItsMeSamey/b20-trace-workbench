@@ -1,0 +1,967 @@
+{
+  "tokens": [
+    {
+      "contract_address": "0xb200000000000000000000000D3176ee4af1102d",
+      "symbol": "RKTc",
+      "name": "Rocket Companies, Inc.",
+      "decimals": 8,
+      "isin": "US77311W1018",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXJY9"
+    },
+    {
+      "contract_address": "0xb2000000000000000000000199aE48796c61909e",
+      "symbol": "FUNc",
+      "name": "Six Flags Entertainment Corporation",
+      "decimals": 8,
+      "isin": "US83001C1080",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX6M7"
+    },
+    {
+      "contract_address": "0xb200000000000000000000045beafafBE0Dc7664",
+      "symbol": "ABNBc",
+      "name": "Airbnb, Inc.",
+      "decimals": 8,
+      "isin": "US0090661010",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXW81"
+    },
+    {
+      "contract_address": "0xb20000000000000000000006f910a0e7BBD3c168",
+      "symbol": "APPc",
+      "name": "AppLovin Corporation",
+      "decimals": 8,
+      "total_supply": 106.0015844,
+      "isin": "US03831W1080",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-23T14:02:09Z",
+      "adgm_isin": "AE000A4AXWZ9"
+    },
+    {
+      "contract_address": "0xB200000000000000000000082f7FEA8F2eE8f438",
+      "symbol": "BJc",
+      "name": "BJ's Wholesale Club Holdings, Inc.",
+      "decimals": 8,
+      "isin": "US05550J1016",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXJN2"
+    },
+    {
+      "contract_address": "0xb2000000000000000000000A22ac22D031B657DA",
+      "symbol": "TRONc",
+      "name": "Tron Inc.",
+      "decimals": 8,
+      "isin": "US85237B1017",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYEY8"
+    },
+    {
+      "contract_address": "0xb2000000000000000000000bD75bF439A38bF7DF",
+      "symbol": "DISc",
+      "name": "The Walt Disney Company",
+      "decimals": 8,
+      "isin": "US2546871060",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX562"
+    },
+    {
+      "contract_address": "0xb2000000000000000000000C1F8aCD3c4496a762",
+      "symbol": "SEZLc",
+      "name": "Sezzle Inc.",
+      "decimals": 8,
+      "isin": "US78435P1057",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXLR9"
+    },
+    {
+      "contract_address": "0xb2000000000000000000000d46361d597f543d06",
+      "symbol": "QBTSc",
+      "name": "D-Wave Quantum Inc.",
+      "decimals": 8,
+      "isin": "US26740W1099",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFR9"
+    },
+    {
+      "contract_address": "0xB2000000000000000000000d8Ce462E99ee7A47B",
+      "symbol": "AMDc",
+      "name": "Advanced Micro Devices, Inc.",
+      "decimals": 8,
+      "total_supply": 1153.92197948,
+      "isin": "US0079031078",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-28T13:52:51Z",
+      "adgm_isin": "AE000A4AXG24"
+    },
+    {
+      "contract_address": "0xB2000000000000000000000D9947c759429e7fE5",
+      "symbol": "SHAZc",
+      "name": "SharonAI Holdings Inc.",
+      "decimals": 8,
+      "isin": "US7789203061",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXWY2"
+    },
+    {
+      "contract_address": "0xB2000000000000000000000E63b7B0b6BC5B9213",
+      "symbol": "ZMc",
+      "name": "Zoom Communications, Inc.",
+      "decimals": 8,
+      "isin": "US98980L1017",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX9X8"
+    },
+    {
+      "contract_address": "0xb2000000000000000000000F28146Eb28ea2835B",
+      "symbol": "RUMc",
+      "name": "RUM Group Inc.",
+      "decimals": 8,
+      "isin": "US78137L1052",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXX31"
+    },
+    {
+      "contract_address": "0xB200000000000000000000105A1f43ff3605C5De",
+      "symbol": "KSSc",
+      "name": "Kohl's Corporation",
+      "decimals": 8,
+      "isin": "US5002551043",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXHT3"
+    },
+    {
+      "contract_address": "0xB200000000000000000000115bf2283265FB04Db",
+      "symbol": "XXIc",
+      "name": "Twenty One Capital, Inc.",
+      "decimals": 8,
+      "isin": "US90138L1098",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXRJ3"
+    },
+    {
+      "contract_address": "0xb20000000000000000000011b20aebe0Bd567F1c",
+      "symbol": "PLNTc",
+      "name": "Planet Fitness, Inc.",
+      "decimals": 8,
+      "isin": "US72703H1014",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXLP3"
+    },
+    {
+      "contract_address": "0xB20000000000000000000011EEA811eAEdb29156",
+      "symbol": "ALNTc",
+      "name": "Allient Inc.",
+      "decimals": 8,
+      "isin": "US0193301092",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFC1"
+    },
+    {
+      "contract_address": "0xb2000000000000000000001347ccD9e83d5Bf3e0",
+      "symbol": "LYVc",
+      "name": "Live Nation Entertainment, Inc.",
+      "decimals": 8,
+      "isin": "US5380341090",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXJM4"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001409f816682b7772b7",
+      "symbol": "SMPLc",
+      "name": "The Simply Good Foods Company",
+      "decimals": 8,
+      "isin": "US82900L1026",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXXM5"
+    },
+    {
+      "contract_address": "0xb20000000000000000000015776Ea82655C4F034",
+      "symbol": "CSCOc",
+      "name": "Cisco Systems, Inc.",
+      "decimals": 8,
+      "isin": "US17275R1023",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX9W0"
+    },
+    {
+      "contract_address": "0xb20000000000000000000016f9dfe862feBA122b",
+      "symbol": "BEc",
+      "name": "Bloom Energy Corporation",
+      "decimals": 8,
+      "total_supply": 1253.47088512,
+      "isin": "US0937121079",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-28T13:56:45Z",
+      "adgm_isin": "AE000A4AXG16"
+    },
+    {
+      "contract_address": "0xb2000000000000000000001775Bd17f2289DE527",
+      "symbol": "AEHRc",
+      "name": "Aehr Test Systems",
+      "decimals": 8,
+      "isin": "US00760J1088",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX646"
+    },
+    {
+      "contract_address": "0xB20000000000000000000017BB66E9301E913A99",
+      "symbol": "SANc",
+      "name": "Banco Santander, S.A.",
+      "decimals": 8,
+      "total_supply": 2491,
+      "isin": "US05964H1059",
+      "multiplier": 1.0105710788687274,
+      "first_mint_date": "2026-10-09T19:00:57Z",
+      "adgm_isin": "AE000A4AXSB8"
+    },
+    {
+      "contract_address": "0xb200000000000000000000187f7071D6E321a7d2",
+      "symbol": "SKHYc",
+      "name": "SK hynix Inc.",
+      "decimals": 8,
+      "total_supply": 2167.7041319,
+      "isin": "US78392B2060",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-09T18:18:41Z",
+      "adgm_isin": "AE000A4AXRZ9"
+    },
+    {
+      "contract_address": "0xB20000000000000000000018FE7eC7d6DfeeB528",
+      "symbol": "PFEc",
+      "name": "Pfizer Inc",
+      "decimals": 8,
+      "total_supply": 9.86627835,
+      "isin": "US7170811035",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-29T15:28:43Z",
+      "adgm_isin": "AE000A4AXHG0"
+    },
+    {
+      "contract_address": "0xb20000000000000000000019641B253b3e2c8A24",
+      "symbol": "ANFc",
+      "name": "Abercrombie & Fitch Co.",
+      "decimals": 8,
+      "isin": "US0028962076",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX554"
+    },
+    {
+      "contract_address": "0xB20000000000000000000019f6E7C675b73C2e4D",
+      "symbol": "CRCLc",
+      "name": "Circle Internet Group Inc.",
+      "decimals": 8,
+      "total_supply": 1685.59052387,
+      "isin": "US1725731079",
+      "multiplier": 1,
+      "nav_price": 67.41665,
+      "nav_price_updated_at": "2026-11-06T23:04:04Z",
+      "first_mint_date": "2026-10-26T21:53:11Z",
+      "adgm_isin": "AE000A4AXGG2"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001A114de6d32433F3C0",
+      "symbol": "SERVc",
+      "name": "Serve Robotics Inc.",
+      "decimals": 8,
+      "isin": "US81758H1068",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFA5"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001aaa9010Cd65f82c5E",
+      "symbol": "CORZc",
+      "name": "Core Scientific, Inc.",
+      "decimals": 8,
+      "isin": "US21874A1060",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXRN5"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001AC12227a8aE0Ef3Ac",
+      "symbol": "STZc",
+      "name": "Constellation Brands, Inc.",
+      "decimals": 8,
+      "isin": "US21036P1084",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXSP8"
+    },
+    {
+      "contract_address": "0xb2000000000000000000001b6e407239EB31EDCf",
+      "symbol": "CAVAc",
+      "name": "CAVA Group, Inc.",
+      "decimals": 8,
+      "isin": "US1489291021",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXSQ6"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001BCf8E5022d7f61919",
+      "symbol": "MVISc",
+      "name": "MicroVision, Inc.",
+      "decimals": 8,
+      "isin": "US5949604038",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX6R6"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001cA01a48688eC7D3CC",
+      "symbol": "CHPTc",
+      "name": "ChargePoint Holdings, Inc.",
+      "decimals": 8,
+      "isin": "US15961R3030",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXXA0"
+    },
+    {
+      "contract_address": "0xb2000000000000000000001e800a7f5189430cD0",
+      "symbol": "TSLAc",
+      "name": "Tesla Inc.",
+      "decimals": 8,
+      "total_supply": 6434.17576763,
+      "isin": "US88160R1014",
+      "multiplier": 1,
+      "nav_price": 359.09,
+      "nav_price_updated_at": "2026-11-06T21:42:54Z",
+      "first_mint_date": "2026-09-03T18:16:27Z",
+      "adgm_isin": "AE000A4AWG09"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001e838D4bEb66cf8FB7",
+      "symbol": "FWDIc",
+      "name": "Forward Industries, Inc.",
+      "decimals": 8,
+      "isin": "US3499321038",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXRQ8"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001ECFAcCd9047D3B544",
+      "symbol": "BROSc",
+      "name": "Dutch Bros Inc.",
+      "decimals": 8,
+      "isin": "US26701L1008",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXX64"
+    },
+    {
+      "contract_address": "0xB2000000000000000000001FaA7Fa5eF4184eDE5",
+      "symbol": "HOGc",
+      "name": "Harley-Davidson, Inc.",
+      "decimals": 8,
+      "isin": "US4128221086",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX6T2"
+    },
+    {
+      "contract_address": "0xB20000000000000000000020790305A981E88a67",
+      "symbol": "RRc",
+      "name": "Richtech Robotics Inc.",
+      "decimals": 8,
+      "isin": "US7655041058",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFJ6"
+    },
+    {
+      "contract_address": "0xB2000000000000000000002137743D4a01Fe4e88",
+      "symbol": "SOUNc",
+      "name": "SoundHound AI, Inc.",
+      "decimals": 8,
+      "total_supply": 3.93243255,
+      "isin": "US8361001071",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-29T15:26:19Z",
+      "adgm_isin": "AE000A4AXG99"
+    },
+    {
+      "contract_address": "0xb20000000000000000000024170488e788CBbCb4",
+      "symbol": "BRK.Bc",
+      "name": "Berkshire Hathaway Inc. Class B",
+      "decimals": 8,
+      "isin": "US0846707026",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXRD6"
+    },
+    {
+      "contract_address": "0xb200000000000000000000241fe94fe97FcBf034",
+      "symbol": "MRKc",
+      "name": "Merck & Co., Inc.",
+      "decimals": 8,
+      "isin": "US58933Y1055",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX9Q2"
+    },
+    {
+      "contract_address": "0xB2000000000000000000002451aF655AE942308D",
+      "symbol": "CGNXc",
+      "name": "Cognex Corporation",
+      "decimals": 8,
+      "isin": "US1924221039",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFD9"
+    },
+    {
+      "contract_address": "0xb200000000000000000000252C42b75F49DacF59",
+      "symbol": "ROKc",
+      "name": "Rockwell Automation, Inc.",
+      "decimals": 8,
+      "isin": "US7739031091",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFH0"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002570652530A5E0F771",
+      "symbol": "OKTAc",
+      "name": "Okta, Inc.",
+      "decimals": 8,
+      "isin": "US6792951054",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYAL3"
+    },
+    {
+      "contract_address": "0xb200000000000000000000259694B27Bf052E7d7",
+      "symbol": "OPENc",
+      "name": "Opendoor Technologies Inc.",
+      "decimals": 8,
+      "isin": "US6837121036",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXG81"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002601C5C94F435da168",
+      "symbol": "HTZc",
+      "name": "Hertz Global Holdings, Inc.",
+      "decimals": 8,
+      "total_supply": 225.71941499,
+      "isin": "US42806J7000",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-24T19:26:27Z",
+      "adgm_isin": "AE000A4AXGV1"
+    },
+    {
+      "contract_address": "0xB20000000000000000000026215D755356E5043f",
+      "symbol": "ARMc",
+      "name": "Arm Holdings plc",
+      "decimals": 8,
+      "total_supply": 255.49890308,
+      "isin": "US0420682058",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-09T19:00:33Z",
+      "adgm_isin": "AE000A4AXR96"
+    },
+    {
+      "contract_address": "0xB200000000000000000000281C973bf2555dD94B",
+      "symbol": "WINGc",
+      "name": "Wingstop Inc.",
+      "decimals": 8,
+      "isin": "US9741551033",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXJX1"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002a0EC8F8861cE98983",
+      "symbol": "NVTSc",
+      "name": "Navitas Semiconductor Corporation",
+      "decimals": 8,
+      "isin": "US63942X1063",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX6F1"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002a3E91E59fFc3CeD94",
+      "symbol": "OPNWc",
+      "name": "OpenWorld, Inc.",
+      "decimals": 8,
+      "isin": "US92346X3052",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYEZ5"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002B9AC07a0544688079",
+      "symbol": "SIDUc",
+      "name": "Sidus Space, Inc.",
+      "decimals": 8,
+      "isin": "US8261652015",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXXX2"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002C8b0e3d7Ff26f81a0",
+      "symbol": "AMKRc",
+      "name": "Amkor Technology, Inc.",
+      "decimals": 8,
+      "isin": "US0316521006",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFS7"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002C99976e240eD773E6",
+      "symbol": "DDOGc",
+      "name": "Datadog, Inc.",
+      "decimals": 8,
+      "isin": "US23804L1035",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYAB4"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002Cd78D7C981e97c330",
+      "symbol": "ASSTc",
+      "name": "Strive, Inc.",
+      "decimals": 8,
+      "isin": "US8629453007",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYE17"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "symbol": "GOOGLc",
+      "name": "Alphabet Inc.",
+      "decimals": 8,
+      "total_supply": 35126.50012163,
+      "isin": "US02079K3059",
+      "multiplier": 1.0003771186767842,
+      "nav_price": 285.66383855,
+      "nav_price_updated_at": "2026-11-06T17:37:48Z",
+      "first_mint_date": "2026-08-12T12:55:49Z",
+      "adgm_isin": "AE000A4AV8D4"
+    },
+    {
+      "contract_address": "0xb2000000000000000000002D2B5dc53c61f1bA06",
+      "symbol": "NIOc",
+      "name": "NIO Inc.",
+      "decimals": 8,
+      "total_supply": 15223,
+      "isin": "US62914V1061",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-09T18:20:27Z",
+      "adgm_isin": "AE000A4AXR70"
+    },
+    {
+      "contract_address": "0xB2000000000000000000002F7Bd112b645574214",
+      "symbol": "ISRGc",
+      "name": "Intuitive Surgical, Inc.",
+      "decimals": 8,
+      "isin": "US46120E6023",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYE41"
+    },
+    {
+      "contract_address": "0xB2000000000000000000003086b1355bd43e25Da",
+      "symbol": "OPADc",
+      "name": "Offerpad Solutions Inc.",
+      "decimals": 8,
+      "isin": "US67623L5057",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXXZ7"
+    },
+    {
+      "contract_address": "0xB2000000000000000000003088798F6d0722AaAC",
+      "symbol": "SEc",
+      "name": "Sea Limited",
+      "decimals": 8,
+      "total_supply": 447,
+      "isin": "US81141R1005",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-09T18:20:17Z",
+      "adgm_isin": "AE000A4AXR47"
+    },
+    {
+      "contract_address": "0xB200000000000000000000314B9f5F580168766a",
+      "symbol": "OUSTc",
+      "name": "Ouster, Inc.",
+      "decimals": 8,
+      "isin": "US68989M2026",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX927"
+    },
+    {
+      "contract_address": "0xB20000000000000000000034533Ed3961f222Cd4",
+      "symbol": "ADBEc",
+      "name": "Adobe Inc.",
+      "decimals": 8,
+      "isin": "US00724F1012",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX9V2"
+    },
+    {
+      "contract_address": "0xb200000000000000000000347AFbA223D7B6b63C",
+      "symbol": "ORCLc",
+      "name": "Oracle Corporation",
+      "decimals": 8,
+      "total_supply": 3336.18310083,
+      "isin": "US68389X1054",
+      "multiplier": 1.0000399883233386,
+      "first_mint_date": "2026-09-28T14:04:07Z",
+      "adgm_isin": "AE000A4AXG57"
+    },
+    {
+      "contract_address": "0xB20000000000000000000034975347FF1848AAb9",
+      "symbol": "LRCXc",
+      "name": "Lam Research Corporation",
+      "decimals": 8,
+      "isin": "US5128073062",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYAF5"
+    },
+    {
+      "contract_address": "0xB200000000000000000000349ef3Aa93a0897476",
+      "symbol": "ULc",
+      "name": "Unilever Plc",
+      "decimals": 8,
+      "total_supply": 629,
+      "isin": "US9047678035",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-09T19:01:13Z",
+      "adgm_isin": "AE000A4AXRY2"
+    },
+    {
+      "contract_address": "0xB2000000000000000000003958003d801724F9d3",
+      "symbol": "MPc",
+      "name": "MP Materials Corp.",
+      "decimals": 8,
+      "isin": "US5533681012",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX9K5"
+    },
+    {
+      "contract_address": "0xb2000000000000000000003963C3bEAA3eba9bfc",
+      "symbol": "QNTc",
+      "name": "Quantinuum Inc.",
+      "decimals": 8,
+      "isin": "US74768A1043",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX984"
+    },
+    {
+      "contract_address": "0xb200000000000000000000397293Cb8cda9a10c5",
+      "symbol": "SNDKc",
+      "name": "Sandisk Corporation",
+      "decimals": 8,
+      "total_supply": 2300.95020895,
+      "isin": "US80004C2008",
+      "multiplier": 1,
+      "nav_price": 841.20535,
+      "nav_price_updated_at": "2026-11-07T00:59:38Z",
+      "first_mint_date": "2026-09-03T18:13:27Z",
+      "adgm_isin": "AE000A4AWGU5"
+    },
+    {
+      "contract_address": "0xb2000000000000000000003aE0817C304acBB1DE",
+      "symbol": "UMACc",
+      "name": "Unusual Machines, Inc.",
+      "decimals": 8,
+      "isin": "US91532F1021",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX6Q8"
+    },
+    {
+      "contract_address": "0xb2000000000000000000003bd46dbdE905508B16",
+      "symbol": "CMCSAc",
+      "name": "Comcast Corporation",
+      "decimals": 8,
+      "isin": "US20030N1019",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX570"
+    },
+    {
+      "contract_address": "0xB2000000000000000000003bf350E420c13e431a",
+      "symbol": "CVXc",
+      "name": "Chevron Corporation",
+      "decimals": 8,
+      "isin": "US1667641005",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX901"
+    },
+    {
+      "contract_address": "0xB2000000000000000000003e4249C65bd6c037d9",
+      "symbol": "RIVNc",
+      "name": "Rivian Automotive, Inc.",
+      "decimals": 8,
+      "total_supply": 2302.37477487,
+      "isin": "US76954A1034",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-23T14:02:37Z",
+      "adgm_isin": "AE000A4AXJF8"
+    },
+    {
+      "contract_address": "0xB2000000000000000000003E5e2892158e25DD7b",
+      "symbol": "BOOTc",
+      "name": "Boot Barn Holdings, Inc.",
+      "decimals": 8,
+      "isin": "US0994061002",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXW65"
+    },
+    {
+      "contract_address": "0xB2000000000000000000003eF37a7c863DC1482A",
+      "symbol": "SOFIc",
+      "name": "SoFi Technologies, Inc.",
+      "decimals": 8,
+      "isin": "US83406F1021",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXRT2"
+    },
+    {
+      "contract_address": "0xb2000000000000000000003F265aB1f74Dd89AC0",
+      "symbol": "SNAPc",
+      "name": "Snap Inc.",
+      "decimals": 8,
+      "isin": "US83304A1060",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX9J7"
+    },
+    {
+      "contract_address": "0xb2000000000000000000003Fa80315bFd87eFed8",
+      "symbol": "FIGc",
+      "name": "Figma, Inc.",
+      "decimals": 8,
+      "isin": "US3168411052",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFP3"
+    },
+    {
+      "contract_address": "0xb2000000000000000000003FE90a64263B7F9E74",
+      "symbol": "SWBIc",
+      "name": "Smith & Wesson Brands, Inc.",
+      "decimals": 8,
+      "isin": "US8317541063",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXXR4"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004161B4168d03841511",
+      "symbol": "CELHc",
+      "name": "Celsius Holdings, Inc.",
+      "decimals": 8,
+      "isin": "US15118V2079",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXJR3"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004217B9b4f6f6aCb7B8",
+      "symbol": "TEAMc",
+      "name": "Atlassian Corporation",
+      "decimals": 8,
+      "isin": "US0494681010",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYAH1"
+    },
+    {
+      "contract_address": "0xb200000000000000000000428E3a3eebBb20692B",
+      "symbol": "DJTc",
+      "name": "Trump Media & Technology Group Corp.",
+      "decimals": 8,
+      "total_supply": 9780.91291285,
+      "isin": "US25400Q1058",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-24T19:23:53Z",
+      "adgm_isin": "AE000A4AXGJ6"
+    },
+    {
+      "contract_address": "0xb200000000000000000000431a5C1E48E3b1d130",
+      "symbol": "CROXc",
+      "name": "Crocs, Inc.",
+      "decimals": 8,
+      "isin": "US2270461096",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXJU7"
+    },
+    {
+      "contract_address": "0xb200000000000000000000432a1d2Bd864ACEc82",
+      "symbol": "WULFc",
+      "name": "TeraWulf Inc.",
+      "decimals": 8,
+      "isin": "US88080T1043",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXHR7"
+    },
+    {
+      "contract_address": "0xB20000000000000000000043a599976181Bcf336",
+      "symbol": "HIMSc",
+      "name": "Hims & Hers Health, Inc.",
+      "decimals": 8,
+      "total_supply": 12100.78866352,
+      "isin": "US4330001060",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-28T14:00:15Z",
+      "adgm_isin": "AE000A4AXGU3"
+    },
+    {
+      "contract_address": "0xB20000000000000000000044E3CD7a0E1028E57a",
+      "symbol": "WENc",
+      "name": "Wendy's Co",
+      "decimals": 8,
+      "total_supply": 241.76558697,
+      "isin": "US95058W1009",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-29T15:25:39Z",
+      "adgm_isin": "AE000A4AXHB1"
+    },
+    {
+      "contract_address": "0xb200000000000000000000450ad3abE5d4846c6E",
+      "symbol": "PYPLc",
+      "name": "PayPal Holdings, Inc.",
+      "decimals": 8,
+      "total_supply": 161.0682849,
+      "isin": "US70450Y1038",
+      "multiplier": 1,
+      "first_mint_date": "2026-09-29T15:25:19Z",
+      "adgm_isin": "AE000A4AXHE5"
+    },
+    {
+      "contract_address": "0xb200000000000000000000476C5a355AbE1a2794",
+      "symbol": "ALABc",
+      "name": "Astera Labs, Inc.",
+      "decimals": 8,
+      "isin": "US04626A1034",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX9A6"
+    },
+    {
+      "contract_address": "0xb20000000000000000000047984EcaE84db5fcF9",
+      "symbol": "SYMc",
+      "name": "Symbotic Inc.",
+      "decimals": 8,
+      "isin": "US87151X1019",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFB3"
+    },
+    {
+      "contract_address": "0xb2000000000000000000004884b426556b92883d",
+      "symbol": "MSTRc",
+      "name": "Strategy Inc.",
+      "decimals": 8,
+      "total_supply": 17522.9847689,
+      "isin": "US5949724083",
+      "multiplier": 1,
+      "nav_price": 128.875,
+      "nav_price_updated_at": "2026-11-06T23:00:55Z",
+      "first_mint_date": "2026-09-03T18:11:53Z",
+      "adgm_isin": "AE000A4AWGY7"
+    },
+    {
+      "contract_address": "0xB20000000000000000000049B9fC3b3c8C9402ff",
+      "symbol": "TKRc",
+      "name": "The Timken Company",
+      "decimals": 8,
+      "isin": "US8873891043",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFK4"
+    },
+    {
+      "contract_address": "0xB20000000000000000000049d38a179C97E33381",
+      "symbol": "AMGNc",
+      "name": "Amgen Inc.",
+      "decimals": 8,
+      "isin": "US0311621009",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYAC2"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004AA2B559CA0a0bbF5D",
+      "symbol": "ROOTc",
+      "name": "Root, Inc.",
+      "decimals": 8,
+      "isin": "US77664L2079",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXLS7"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004AcDC9A922FCfBCc7f",
+      "symbol": "SNOWc",
+      "name": "Snowflake Inc.",
+      "decimals": 8,
+      "isin": "US8334451098",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX679"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004AFF16039bA04bdFBc",
+      "symbol": "INTCc",
+      "name": "Intel Corporation",
+      "decimals": 8,
+      "total_supply": 2167.4961929,
+      "isin": "US4581401001",
+      "multiplier": 1,
+      "nav_price": 56.64499999,
+      "nav_price_updated_at": "2026-11-06T21:06:39Z",
+      "first_mint_date": "2026-10-26T21:53:01Z",
+      "adgm_isin": "AE000A4AWGX9"
+    },
+    {
+      "contract_address": "0xb2000000000000000000004cc3E96cEb78541d33",
+      "symbol": "AXONc",
+      "name": "Axon Enterprise, Inc.",
+      "decimals": 8,
+      "isin": "US05464C1018",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXLN8"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004EC7c19212979672F9",
+      "symbol": "BLNKc",
+      "name": "Blink Charging Co.",
+      "decimals": 8,
+      "isin": "US09354A1007",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXXB8"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004fc7a0C25178A0D633",
+      "symbol": "FLYc",
+      "name": "Firefly Aerospace Inc.",
+      "decimals": 8,
+      "isin": "US31816X1063",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXX80"
+    },
+    {
+      "contract_address": "0xB2000000000000000000004FeB8D277Dd14b08Bb",
+      "symbol": "AALc",
+      "name": "American Airlines Group Inc.",
+      "decimals": 8,
+      "isin": "US02376R1023",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AX638"
+    },
+    {
+      "contract_address": "0xb200000000000000000000501Ef81F911eB57656",
+      "symbol": "RXRXc",
+      "name": "Recursion Pharmaceuticals, Inc.",
+      "decimals": 8,
+      "isin": "US75629V1044",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AXSM5"
+    },
+    {
+      "contract_address": "0xb20000000000000000000050fE6d1Ef35B02E8fD",
+      "symbol": "DELLc",
+      "name": "Dell Technologies Inc.",
+      "decimals": 8,
+      "isin": "US24703L2025",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYE33"
+    },
+    {
+      "contract_address": "0xb20000000000000000000051B531471096C5CAf6",
+      "symbol": "VPGc",
+      "name": "Vishay Precision Group, Inc.",
+      "decimals": 8,
+      "isin": "US92835K1034",
+      "multiplier": 1,
+      "adgm_isin": "AE000A4AYFL2"
+    },
+    {
+      "contract_address": "0xB200000000000000000000535fE96f18204BFD96",
+      "symbol": "BIRDc",
+      "name": "Smartbird, Inc.",
+      "decimals": 8,
+      "total_supply": 1,
+      "isin": "US01675A2087",
+      "multiplier": 1,
+      "first_mint_date": "2026-10-06T09:41:45Z",
+      "adgm_isin": "AE000A4AXGP3"
+    }
+  ],
+  "next_page_token": "MHhiMjAwMDAwMDAwMDAwMDAwMDAwMDAwNTM1ZmU5NmYxODIwNGJmZDk2"
+}
